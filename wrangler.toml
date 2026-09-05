@@ -1,0 +1,6 @@
+﻿name = "github-spring-profiler-mcp"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+# GITHUB_TOKEN se configura como secret con: wrangler secret put GITHUB_TOKEN
